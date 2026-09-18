@@ -22,18 +22,18 @@ Specializing in **Backend Engineering**, decoupled REST architectures, and **Dev
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Smart-Uni](https://github.com/your-username/smart-uni) — Secure Backend & Cloud Architecture
+#### 🔹 [Smart-Uni](https://github.com/Mohamine2/smart-uni-api) — Secure Backend & Cloud Architecture
 Decoupled REST API built for academic workflow management, emphasizing Infrastructure as Code and container security.
 * **Backend:** Django REST Framework, PostgreSQL 16, stateless JWT authentication, automated OpenAPI 3.0 schema generation with drf-spectacular.
 * **Infra & DevOps:** Automated AWS provisioning (VPC, EC2) using **Terraform**, containerized with hardened multi-container Docker runtimes (non-root execution) behind an Nginx reverse proxy.
 * **CI/CD & DevSecOps:** GitHub Actions pipeline integrating **Aqua Security Trivy** vulnerability scanning and strict code coverage thresholds.
 
-#### 🔹 [GeoMed Router](https://github.com/your-username/geomed-router) — Decision-Support System for Emergency Routing
+#### 🔹 [GeoMed Router](https://github.com/Mohamine2/geomed-router) — Decision-Support System for Emergency Routing
 Java 17 pathfinding and spatial analysis engine optimizing critical medical routing based on real-world map data.
 * **Algorithms:** Implementation of $A^*$ pathfinding, Delaunay triangulation, and Voronoi tessellation for territorial coverage analysis.
 * **Data & Quality:** Custom OpenStreetMap network parsing, dual CLI / JavaFX GUI architecture, and test suites with **JUnit 5**.
 
-#### 🔹 [C-Wire](https://github.com/your-username/c-wire) — Power Grid Data Pipeline
+#### 🔹 [C-Wire](https://github.com/Mohamine2/C-Wire) — Power Grid Data Pipeline
 System-level processing pipeline designed to aggregate and analyze high-volume electrical consumption metrics.
 * **Systems Programming:** Core data processing in C coordinated with modular Bash orchestration scripts.
 * **Data Structures:** Implementation of self-balancing AVL trees for optimized lookups and automated analytical reporting via Gnuplot.
