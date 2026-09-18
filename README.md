@@ -7,7 +7,7 @@ Specializing in **Backend Engineering**, decoupled REST architectures, and **Dev
 📅 **Availability:** Starting March 2027  
 📍 **Location:** France & International  
 
-[LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-amine-bouazzaoui-890ab5376/)
 
 ---
 
