@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mohamed-Amine 👋
 
-<!--
-**Mohamine2/Mohamine2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at **CY Tech** (Class of 2028).  
+Specializing in **Backend Engineering**, decoupled REST architectures, and **DevSecOps / Cloud** infrastructure.
 
-Here are some ideas to get you started:
+🎯 **Looking for:** 4-to-6-month **Backend / Cloud / DevSecOps** Engineering Internship  
+📅 **Availability:** Starting March 2027  
+📍 **Location:** France & International  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+### 🛠️ Technical Stack
+
+* **Languages:** Python, Java (17+), C, Bash, SQL
+* **Backend & APIs:** Django REST Framework, Spring Boot, RESTful APIs, OpenAPI / drf-spectacular, JWT
+* **Cloud & Infrastructure:** AWS (VPC, EC2, IAM, SSM), Terraform (IaC), Nginx, Docker, Docker Compose
+* **DevSecOps & Databases:** GitHub Actions (CI/CD), Aqua Security Trivy, Unit Testing & Code Coverage (coverage.py, JUnit 5), PostgreSQL, MySQL
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 [Smart-Uni](https://github.com/your-username/smart-uni) — Secure Backend & Cloud Architecture
+Decoupled REST API built for academic workflow management, emphasizing Infrastructure as Code and container security.
+* **Backend:** Django REST Framework, PostgreSQL 16, stateless JWT authentication, automated OpenAPI 3.0 schema generation with drf-spectacular.
+* **Infra & DevOps:** Automated AWS provisioning (VPC, EC2) using **Terraform**, containerized with hardened multi-container Docker runtimes (non-root execution) behind an Nginx reverse proxy.
+* **CI/CD & DevSecOps:** GitHub Actions pipeline integrating **Aqua Security Trivy** vulnerability scanning and strict code coverage thresholds.
+
+#### 🔹 [GeoMed Router](https://github.com/your-username/geomed-router) — Decision-Support System for Emergency Routing
+Java 17 pathfinding and spatial analysis engine optimizing critical medical routing based on real-world map data.
+* **Algorithms:** Implementation of $A^*$ pathfinding, Delaunay triangulation, and Voronoi tessellation for territorial coverage analysis.
+* **Data & Quality:** Custom OpenStreetMap network parsing, dual CLI / JavaFX GUI architecture, and test suites with **JUnit 5**.
+
+#### 🔹 [C-Wire](https://github.com/your-username/c-wire) — Power Grid Data Pipeline
+System-level processing pipeline designed to aggregate and analyze high-volume electrical consumption metrics.
+* **Systems Programming:** Core data processing in C coordinated with modular Bash orchestration scripts.
+* **Data Structures:** Implementation of self-balancing AVL trees for optimized lookups and automated analytical reporting via Gnuplot.
+
+---
+
+### 📌 Highlights
+* Daily driver: Linux (Ubuntu) environments, command-line tooling, and automation workflows.
+* Strong focus on software design principles: separation of concerns, test-driven validation, and reproducible cloud infrastructure.
